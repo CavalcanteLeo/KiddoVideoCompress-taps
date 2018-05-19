@@ -8,7 +8,7 @@ class KiddoVideoCompress < Formula
   depends_on "bash"
 
   def install
-    bin.install => "bin/kiddoVideoCompress"
+    bin.install => "bin/KiddoVideoCompress"
   end
 
   test do
