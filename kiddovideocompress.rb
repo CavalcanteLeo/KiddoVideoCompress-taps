@@ -8,8 +8,8 @@ class Kiddovideocompress < Formula
   sha256 "28f51832c8f0a5d9ed663cfeb7b5bce9727b6ec5644538f7dde2f1982e763354"
 
   depends_on "bash"
-  depends_on "ffmpeg --with-libvpx"
-  
+  depends_on "ffmpeg"
+
   def install
     bin.install "KiddoVideoCompress"
   end
