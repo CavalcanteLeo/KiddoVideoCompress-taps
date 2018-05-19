@@ -1,5 +1,5 @@
 
-class Kiddovideocompress < Formula
+class kiddoVideoCompress < Formula
 
   desc "Batch video compress with ffmpeg"
   homepage "https://github.com/CavalcanteLeo/KiddoVideoCompress"
