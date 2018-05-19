@@ -1,11 +1,11 @@
 
-class KiddoVideoCompress < Formula
+class Kiddovideocompress < Formula
 
   desc "Batch video compress with ffmpeg"
   homepage "https://github.com/CavalcanteLeo/KiddoVideoCompress"
   url "https://github.com/CavalcanteLeo/KiddoVideoCompress/archive/v0.0.5.tar.gz"
   version "0.0.5"
-  sha256 "7040e0d010afc06834986e686c60478a64f47a88c0ff51d7723126c253b28fb5"
+  sha256 "3488c76602365220085d06334781070c25dbb71246fe0c51a9d0b427e46666e2"
 
   depends_on "bash"
 
