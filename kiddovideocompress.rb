@@ -1,6 +1,7 @@
 
 class KiddoVideoCompress < Formula
-  desc "Batch video compress with ffmpeg "
+
+  desc "Batch video compress with ffmpeg"
   homepage "https://github.com/CavalcanteLeo/KiddoVideoCompress"
   url "https://github.com/CavalcanteLeo/KiddoVideoCompress/archive/v0.0.4.tar.gz"
   version "0.0.4"
@@ -9,7 +10,7 @@ class KiddoVideoCompress < Formula
   depends_on "bash"
 
   def install
-    bin.install => "kiddovideocompress"
+    bin.install "kiddovideocompress"
   end
 
 end
