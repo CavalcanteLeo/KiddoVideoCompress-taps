@@ -5,7 +5,7 @@ class Kiddovideocompress < Formula
   homepage "https://github.com/CavalcanteLeo/KiddoVideoCompress"
   url "https://github.com/CavalcanteLeo/KiddoVideoCompress/archive/v.1.0.3.tar.gz"
   version "1.0.3"
-  sha256 "6623347ec94d5bdffd556146b3a6f6a4ac16c47433761e3d834375a17c473c66"
+  sha256 "2e57720a8b973c24ab360bda091d3c9ef6412c2b20300495ae63faf5257f4175"
 
   depends_on "bash"
   depends_on "ffmpeg"
